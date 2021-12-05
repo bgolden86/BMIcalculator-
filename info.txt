@@ -1,0 +1,1 @@
+wget -m -p -E -k -r https://cs.smu.ca/~mobileappbook/ch05to07/thyroidAppLocal/
